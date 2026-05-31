@@ -1,0 +1,39 @@
+baseURL = 'https://bija.me/'
+languageCode = 'zh-CN'
+title = 'Bija Lab — AI Agent 自进化实践'
+theme = 'papermod'
+
+[params]
+  author = '一名计算化学博士生'
+  description = 'AI Agent自进化实践。GENOME V2.0。DSEIM五阶段循环。五型记忆。五域舰队。'
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  TocOpen = false
+  defaultTheme = 'auto'
+
+  [params.homeInfoParams]
+    Title = 'Bija Lab'
+    Content = 'AI Agent自进化实践。从52KB规则文件到五域舰队的4个月进化实录。'
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/l850097071/bija-genome'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = '文章'
+    url = '/posts/'
+    weight = 1
+  [[menu.main]]
+    name = 'GitHub'
+    url = 'https://github.com/l850097071/bija-genome'
+    weight = 2
