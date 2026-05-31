@@ -117,3 +117,7 @@ Malus.sh、Hermes、chardet——它们是信号。信号在说同一件事：**
 ---
 
 **字数**: ~2400字 | **状态**: 初稿 | **写于**: R54 /自动驾驶 2026-06-01
+
+---
+
+**系列阅读**: [三套基因组战争](./three_genomes_war.md) → [受控进化的timing](./constrained_evolution_timing.md) → [七路诸侯](./seven_frameworks_2026.md) → [AGP vs DSEIM](./agp_vs_dseim.md)
