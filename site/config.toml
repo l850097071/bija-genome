@@ -2,6 +2,8 @@ baseURL = 'https://bija.me/'
 languageCode = 'zh-CN'
 title = 'Bija Lab — AI Agent 自进化实践'
 theme = 'papermod'
+buildFuture = true
+buildDrafts = false
 
 [params]
   author = '一名计算化学博士生'
