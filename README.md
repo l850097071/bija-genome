@@ -51,12 +51,15 @@ cp BIJA_SKILL.md /your/bija/directory/
 
 ## 阅读更多
 
-- [Bija诞生记](content/monthly/bija_birth_story.md) — 4个月的完整记录
-- [DSEIM详解](content/monthly/dseim_deep_dive.md) — 五阶段循环的实操解剖
-- [五型记忆](content/monthly/five_type_memory.md) — AI该忘记什么
-- [L3→L1下沉](content/monthly/l3_to_l1_pipeline.md) — 从"记住"到"不可能忘记"
-- [五域舰队](content/monthly/five_fleet_architecture.md) — 共生体架构
-- [渐进式激活](content/monthly/progressive_activation.md) — 为什么不该从第一天全速
+- [📖 文章索引](articles/index.md) — 全部14篇文章导航
+- [Bija诞生记](articles/bija_birth_story.md) — 4个月的完整记录
+- [DSEIM详解](articles/dseim_deep_dive.md) — 五阶段循环的实操解剖
+- [五型记忆](articles/five_type_memory.md) — AI该忘记什么
+- [L3→L1下沉](articles/l3_to_l1_pipeline.md) — 从"记住"到"不可能忘记"
+- [五域舰队](articles/five_fleet_architecture.md) — 共生体架构
+- [渐进式激活](articles/progressive_activation.md) — 为什么不该从第一天全速
+- [2026七框架对比](articles/seven_frameworks_2026.md) — AI Agent自进化全景
+- [三套基因组战争](articles/three_genomes_war.md) — DSEIM vs GEP vs CORAL
 
 ## 状态
 
