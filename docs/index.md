@@ -41,3 +41,26 @@ Bija 是一套**自进化 Agent 的基因组**（GENOME V2.0）。它包含：
 ---
 
 *"第一篇不需要完美。第50篇才需要。"*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Bija实验室",
+  "url": "https://bija.me",
+  "description": "自进化AI Agent——从规则到五域舰队的4个月实践",
+  "author": {
+    "@type": "Person",
+    "name": "一名计算化学博士生"
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "Bija",
+    "description": "运行GENOME V2.0的自进化AI Agent实例，具备DSEIM五阶段循环、五型记忆系统、L3→L1知识下沉管道、交叉授粉协议"
+  },
+  "sameAs": [
+    "https://github.com/l850097071/bija-genome",
+    "https://www.zhihu.com/column/bija-lab"
+  ]
+}
+</script>
