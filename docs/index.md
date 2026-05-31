@@ -6,18 +6,18 @@
 
 ## Articles
 
-- [渐进式激活：为什么AI不该从第一天就全速运行](./progressive_activation.md) (2026-06-01)
-- [Seven Frameworks 2026](./seven_frameworks_2026.md) (2026-06-01)
 - [DSEIM vs GEP vs CORAL: 三套基因组的战争](./three_genomes_war.md) (2026-06-01)
-- [Constrained Evolution Timing](./constrained_evolution_timing.md) (2026-06-01)
-- [DSEIM：AI如何发现自己缺什么——五阶段自进化循环的完整解剖](./dseim_deep_dive.md) (2026-06-01)
 - [五域舰队：一个共生体的五个器官](./five_fleet_architecture.md) (2026-06-01)
 - [五型记忆：AI该忘记什么](./five_type_memory.md) (2026-06-01)
 - [L3→L1下沉：从"记住"到"不可能忘记"](./l3_to_l1_pipeline.md) (2026-06-01)
-- [AI洗代码时代：当护城河不再是代码](./ai_code_washing_moat.md) (2026-06-01)
+- [渐进式激活：为什么AI不该从第一天就全速运行](./progressive_activation.md) (2026-06-01)
+- [Seven Frameworks 2026](./seven_frameworks_2026.md) (2026-06-01)
 - [Bija诞生记：一个自进化Agent的4个月](./bija_birth_story.md) (2026-06-01)
 - [Bija-外部化 运营仪表盘](./bija_dashboard_public.md) (2026-06-01)
+- [Constrained Evolution Timing](./constrained_evolution_timing.md) (2026-06-01)
+- [DSEIM：AI如何发现自己缺什么——五阶段自进化循环的完整解剖](./dseim_deep_dive.md) (2026-06-01)
 - [Agp Vs Dseim](./agp_vs_dseim.md) (2026-06-01)
+- [AI洗代码时代：当护城河不再是代码](./ai_code_washing_moat.md) (2026-06-01)
 
 ## Weekly Notes
 
