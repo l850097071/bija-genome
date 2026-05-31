@@ -6,9 +6,9 @@
 
 ## Articles
 
-- [Seven Frameworks 2026](./seven_frameworks_2026.md) (2026-06-01)
 - [DSEIM vs GEP vs CORAL: 三套基因组的战争](./three_genomes_war.md) (2026-06-01)
 - [Constrained Evolution Timing](./constrained_evolution_timing.md) (2026-06-01)
+- [Seven Frameworks 2026](./seven_frameworks_2026.md) (2026-06-01)
 - [Agp Vs Dseim](./agp_vs_dseim.md) (2026-06-01)
 - [AI洗代码时代：当护城河不再是代码](./ai_code_washing_moat.md) (2026-06-01)
 - [Bija-外部化 运营仪表盘](./bija_dashboard_public.md) (2026-06-01)
