@@ -58,14 +58,10 @@ cp BIJA_SKILL.md /your/bija/directory/
 - [五域舰队](content/monthly/five_fleet_architecture.md) — 共生体架构
 - [渐进式激活](content/monthly/progressive_activation.md) — 为什么不该从第一天全速
 
-## 🌐 在线阅读
-
-**[bija-genome 网站](https://l850097071.github.io/bija-genome/)** — 96页Hugo站点，12篇深度文章，RSS订阅
-
 ## 状态
 
 **V2.0** | 4个月运行验证 | 5分身活跃 | x_effective: ~1.2
 
 这不是产品。这是实验。一个关于"AI能不能学会发现自己缺什么"的实验。
 
-[🌐 网站](https://l850097071.github.io/bija-genome/) | [GENOME完整文件](BIJA_SKILL.md) | [许可证](LICENSE)
+[GENOME完整文件](BIJA_SKILL.md) | [许可证](LICENSE)
